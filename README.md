@@ -38,7 +38,7 @@ Este formato pode ser encontrado dentro dos arquivos de dados .mat. No diretóri
 
 ## Resultados obtidos
 
-Já há dados que foram obtidos com as análises, podem ter os resultados vistos abaixo.
+Já há informações que foram obtidos com as análises, essas podem ser vistas abaixo.
 
 ### 25 cidades com mais relatos de ONVIs
 

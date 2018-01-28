@@ -5,6 +5,7 @@ classdef Data
     properties
         shapes;
         cities;
+        time;
     end
     
     methods
@@ -12,6 +13,9 @@ classdef Data
         % Construtor
         function obj = Data()
            obj.cities = {};
+           obj.time = {};
+           obj.time.mean = 0;
+           obj.time.treatedTime = [];
            obj.cities.count = {};
            obj.cities.cities = {};
            obj.cities.treatedCity = {};
@@ -61,7 +65,8 @@ classdef Data
         
         function objConted = countCity(obj)
             %{
-                Método utilizado para realizar a contagem da quantidade de 
+                Método utilizado para realizar a contagem da quantidade de
+                cidades.
             %}
             for filterType = obj.cities.cities'            
                 obj.cities.count.(sprintf('%s', filterType{1})) = ...
@@ -70,6 +75,27 @@ classdef Data
             end
             
             objConted = obj;
+        end
+        
+        function objMean = meanTime(obj)
+            %{
+                Método para calcular o tempo médio de avistamento.
+            
+                OBS: Devolve o tempo em horas
+            %}
+            % Interpola os dados
+            matrix = cell2mat(obj.time.treatedTime');
+            
+            objMean = (mean(matrix) / 60) / 60;
+        end
+        
+        function objMedian = medianTime(obj)
+            %{
+                Método para calcular a mediana dos dados
+            %}
+           matrix = cell2mat(obj.time.treatedTime');
+           
+           objMedian = median(matrix);
         end
     end
 end

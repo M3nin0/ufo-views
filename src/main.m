@@ -25,8 +25,12 @@ switch choice
         
         % Realizando contagem dos tipos
         data.analys = data.analys.countType();
-
         data.analys = data.analys.countCity();
+        
+        % Tratando os dados de tempo
+        data.analys.time.treatedTime = Treatment.TimeTreatMent.convertTime(...
+                                data.pure.duration_seconds_);
+        data.analys.time.mean = data.analys.meanTime();
 end
                                                                                        
 % Salvando os dados na memória

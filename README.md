@@ -40,7 +40,7 @@ Este formato pode ser encontrado dentro dos arquivos de dados .mat. No diretóri
 
 Já há informações que foram obtidos com as análises, essas podem ser vistas abaixo.
 
-### 25 cidades com mais relatos de ONVIs
+### 25 cidades com mais relatos de OVNIs
 
 ![citys](/static/images/cities-of-ovnis.jpg)
 

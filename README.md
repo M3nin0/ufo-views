@@ -56,5 +56,5 @@ Caso seja necessário realizar edições dentro do diretório <code>/static/imag
 - [ ] Os estados em que mais ocorrer os casos;
 - [ ] Os paises em que mais houveram casos;
 - [X] Formatos mais vistos;
-- [ ] Tempo médio de duração dos avistamentos;
+- [X] Tempo médio de duração dos avistamentos;
 - [ ] Datas em que houveram mais publicações de relatos.

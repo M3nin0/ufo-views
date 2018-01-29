@@ -31,6 +31,12 @@ switch choice
         data.analys.time.treatedTime = Treatment.TimeTreatMent.convertTime(...
                                 data.pure.duration_seconds_);
         data.analys.time.mean = data.analys.meanTime();
+        
+        % Tratando os dados das cidades
+        data.analys.countries.countedCountries = Treatment. ...
+                CountryTreatMent.countCoutry(...
+                    data.pure.country);
+        
 end
                                                                                        
 % Salvando os dados na memória

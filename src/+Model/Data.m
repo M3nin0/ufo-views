@@ -6,6 +6,7 @@ classdef Data
         shapes;
         cities;
         time;
+        countries;
     end
     
     methods
@@ -13,6 +14,8 @@ classdef Data
         % Construtor
         function obj = Data()
            obj.cities = {};
+           obj.countries = {};
+           obj.countries.countedCountries = [];
            obj.time = {};
            obj.time.mean = 0;
            obj.time.treatedTime = [];

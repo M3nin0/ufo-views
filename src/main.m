@@ -43,10 +43,12 @@ end
 % Evita dados sendo replicados e ocupando memória
 setappdata(0, 'shapes', data.analys.shapes);
 setappdata(0, 'cities', data.analys.cities);
+setappdata(0, 'countries', data.analys.countries);
 
 % Gerando gráficos
 Graphics.Types();
 Graphics.Cities();
+Graphics.Countries();
 
 % Salvando os dados processados
 pathName = getappdata(0, 'pathName');

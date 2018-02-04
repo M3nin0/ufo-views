@@ -36,6 +36,9 @@ switch choice
         data.analys.countries.countedCountries = Treatment. ...
                 CountryTreatMent.countCoutry(...
                     data.pure.country);
+                
+        % Trata os anos de avistamento
+        data.analys.time.year = data.analys.frequencyTime(data.pure.datetime);
         
 end
                                                                                        

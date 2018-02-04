@@ -54,6 +54,53 @@ Caso seja necessário realizar edições dentro do diretório <code>/static/imag
 
 ![countries](/static/images/country-of-ovnis.jpg)
 
+### Tempo médio de avistamento de todos os casos
+
+O tempo médio de avistamento é em torno de: <code>2.5048 horas</code>
+
+### Anos com mais nível de avistamentos (1980 até 2014)
+
+| ANO  |  QTD |   %   |   |   |
+|------|------|-------|---|---|
+| 1980 | 238  | 0.30% |   |   |
+| 1981 | 163  | 0.20% |   |   |
+| 1982 | 180  | 0.23% |   |   |
+| 1983 | 148  | 0.19% |   |   |
+| 1984 | 185  | 0.23% |   |   |
+| 1985 | 215  | 0.27% |   |   |
+| 1986 | 188  | 0.24% |   |   |
+| 1987 | 223  | 0.28% |   |   |
+| 1988 | 239  | 0.30% |   |   |
+| 1989 | 243  | 0.31% |   |   |
+| 1990 | 257  | 0.32% |   |   |
+| 1991 | 234  | 0.29% |   |   |
+| 1992 | 246  | 0.31% |   |   |
+| 1993 | 300  | 0.38% |   |   |
+| 1994 | 417  | 0.52% |   |   |
+| 1995 | 1066 | 1.34% |   |   |
+| 1996 | 826  | 1.04% |   |   |
+| 1997 | 1242 | 1.56% |   |   |
+| 1998 | 1739 | 2.18% |   |   |
+| 1999 | 2788 | 3.50% |   |   |
+| 2000 | 2752 | 3.46% |   |   |
+| 2001 | 3109 | 3.90% |   |   |
+| 2002 | 3211 | 4.03% |   |   |
+| 2003 | 3935 | 4.94% |   |   |
+| 2004 | 4220 | 5.30% |   |   |
+| 2005 | 4039 | 5.07% |   |   |
+| 2006 | 3682 | 4.62% |   |   |
+| 2007 | 4243 | 5.33% |   |   |
+| 2008 | 4777 | 6.00% |   |   |
+| 2009 | 4508 | 5.66% |   |   |
+| 2010 | 4258 | 5.35% |   |   |
+| 2011 | 5077 | 6.38% |   |   |
+| 2012 | 7308 | 9.18% |   |   |
+| 2013 | 6992 | 8.78% |   |   |
+| 2014 | 2252 | 2.83% |   |   |
+
+
+OBS: A tabela foi gerada a partir do resultado do código matlab juntamente ao: [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) 
+
 ## Questões sendo análisadas
 
 - [X] Quais as cidades que mais ocorrer casos de OVNI;
@@ -61,4 +108,4 @@ Caso seja necessário realizar edições dentro do diretório <code>/static/imag
 - [X] Os países em que mais houveram casos;
 - [X] Formatos mais vistos;
 - [X] Tempo médio de duração dos avistamentos;
-- [ ] Anos em que houveram mais publicações de relatos.
+- [X] Anos em que houveram mais publicações de relatos.

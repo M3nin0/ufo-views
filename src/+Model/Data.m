@@ -18,6 +18,7 @@ classdef Data
            obj.countries.countedCountries = [];
            obj.time = {};
            obj.time.mean = 0;
+           obj.time.year = 0;
            obj.time.treatedTime = [];
            obj.cities.count = {};
            obj.cities.cities = {};
@@ -100,6 +101,15 @@ classdef Data
            
            objMedian = median(matrix);
         end
+        
+        function objTimeFrequency = frequencyTime(obj, dates)
+           %{
+                Método para realizar calculo de frequencia dos anos
+           %}
+            
+            objTimeFrequency = tabulate(ymd(dates));
+        end
+        
     end
 end
 

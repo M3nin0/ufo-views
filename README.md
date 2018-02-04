@@ -60,7 +60,7 @@ O tempo médio de avistamento é em torno de: <code>2.5048 horas</code>
 
 Esta informação pode apresentar inconsistência pois durante a análise levei em consideração todos os dados, até mesmo aqueles em que o tempo de avistamento eram gigantes, como exemplo, um avistamento de 3 dias.
 
-### Anos com mais nível de avistamentos (1980 até 2014)
+### Porcentagem de avistamento dentre os anos (1980 até 2014)
 
 | ANO  | QTD  |   %   |
 |------|------|-------|

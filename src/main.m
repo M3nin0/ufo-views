@@ -55,4 +55,5 @@ pathName = getappdata(0, 'pathName');
 % Criando arquivo atualizado de struct_data
 save(fullfile(pathName, 'struct_data.mat'), 'data');
 % Arquivo com todos os resultados obtidos
-save(fullfile(pathName, 'struct_data_final.mat'), 'data'); 
+save(fullfile(pathName, 'struct_data_final.mat'), 'data');
+

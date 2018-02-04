@@ -50,11 +50,15 @@ Já há informações que foram obtidos com as análises, essas podem ser vistas
 
 Caso seja necessário realizar edições dentro do diretório <code>/static/images</code> há os arquivos .fig para edição.
 
+### Os 5 países com maior nível de avistamentos
+
+![countries](/static/images/country-of-ovnis.jpg)
+
 ## Questões sendo análisadas
 
 - [X] Quais as cidades que mais ocorrer casos de OVNI;
-- [ ] Os estados em que mais ocorrer os casos;
-- [ ] Os paises em que mais houveram casos;
+- [ ] Palavras mais citadas nos relatos;
+- [X] Os países em que mais houveram casos;
 - [X] Formatos mais vistos;
 - [X] Tempo médio de duração dos avistamentos;
-- [ ] Datas em que houveram mais publicações de relatos.
+- [ ] Anos em que houveram mais publicações de relatos.

@@ -103,10 +103,14 @@ Esta informação pode apresentar inconsistência pois durante a análise levei 
 
 OBS: A tabela foi gerada a partir do resultado do código matlab juntamente ao: [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) 
 
+### Textos mais ditos nos comentários de avistamento
+
+Estes podem ser encontrados dentro do diretório <code>data</code>.
+
 ## Questões sendo análisadas
 
 - [X] Quais as cidades que mais ocorrer casos de OVNI;
-- [ ] Palavras mais citadas nos relatos;
+- [X] Palavras mais citadas nos relatos;
 - [X] Os países em que mais houveram casos;
 - [X] Formatos mais vistos;
 - [X] Tempo médio de duração dos avistamentos;

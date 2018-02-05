@@ -103,9 +103,62 @@ Esta informação pode apresentar inconsistência pois durante a análise levei 
 
 OBS: A tabela foi gerada a partir do resultado do código matlab juntamente ao: [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) 
 
-### Textos mais ditos nos comentários de avistamento
+### Os 50 textos mais ditos nos comentários de avistamento
 
-Estes podem ser encontrados dentro do diretório <code>data</code>.
+| 0  |                                                                                                                                        | 15          |
+|----|----------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| 1  | Fireball                                                                                                                               | 11          |
+| 2  | ((NUFORC Note:  No information provided by witness.  PD))                                                                              | 9           |
+| 3  | UFO                                                                                                                                    | 7           |
+| 4  | ((NUFORC Note:  Witness provides no information.  PD))                                                                                 | 7           |
+| 5  | Lights in the sky                                                                                                                      | 7           |
+| 6  | Lights in the sky.                                                                                                                     | 6           |
+| 7  | Orange ball of light.                                                                                                                  | 6           |
+| 8  | Bright Light                                                                                                                           | 6           |
+| 9  | lights in the sky                                                                                                                      | 6           |
+| 10 | Fireball.                                                                                                                              | 5           |
+| 11 | Bright light                                                                                                                           | 5           |
+| 12 | strange lights in the sky                                                                                                              | 4           |
+| 13 | bright light                                                                                                                           | 4           |
+| 14 | UFO Sighting                                                                                                                           | 4           |
+| 15 | Green Fireball                                                                                                                         | 4           |
+| 16 | 3 lights in the sky                                                                                                                    | 4           |
+| 17 | Bright light in the sky                                                                                                                | 4           |
+| 18 | light in the sky                                                                                                                       | 4           |
+| 19 | Strange light in the sky                                                                                                               | 3           |
+| 20 | Two red lights in the sky                                                                                                              | 3           |
+| 21 | see above                                                                                                                              | 3           |
+| 22 | Light in the sky                                                                                                                       | 3           |
+| 23 | Bright light.                                                                                                                          | 3           |
+| 24 | Black &quot                                                                                                                            | shadow&quot |
+| 25 | Orange lights.                                                                                                                         | 3           |
+| 26 | I saw a UFO                                                                                                                            | 3           |
+| 27 | Bright lights                                                                                                                          | 3           |
+| 28 | Orange lights in the sky                                                                                                               | 3           |
+| 29 | Strange lights in the sky.                                                                                                             | 3           |
+| 30 | pulsating light                                                                                                                        | 3           |
+| 31 | Fire in the sky.                                                                                                                       | 3           |
+| 32 | Very Bright Light                                                                                                                      | 3           |
+| 33 | Lights in the Sky                                                                                                                      | 3           |
+| 34 | 3 orange bright triangle or arrowhead shape lights reappeared.                                                                         | 3           |
+| 35 | cigar shaped craft                                                                                                                     | 3           |
+| 36 | green flash                                                                                                                            | 3           |
+| 37 | ufo                                                                                                                                    | 3           |
+| 38 | See above                                                                                                                              | 3           |
+| 39 | fire ball                                                                                                                              | 3           |
+| 40 | Fast moving light                                                                                                                      | 3           |
+| 41 | Saw UFO&#44 photographed UFO  ((NUFORC Note:  Photos not of a genuine UFO&#44 we believe.  One of four reports from same source.  PD)) | 3           |
+| 42 | Fire in the sky                                                                                                                        | 3           |
+| 43 | Ball of light                                                                                                                          | 3           |
+| 44 | It was triangle shape with white lights at each corner of it and a large red one in the middle.                                        | 2           |
+| 45 | Falling bright light                                                                                                                   | 2           |
+| 46 | Orange lights                                                                                                                          | 2           |
+| 47 | Unidentified flying man                                                                                                                | 2           |
+| 48 | Bright blue orb.                                                                                                                       | 2           |
+| 49 | flashing light                                                                                                                         | 2           |
+
+
+Estes podem ser encontrados dentro do diretório <code>data/frequency.csv</code>.
 
 ## Questões sendo análisadas
 
